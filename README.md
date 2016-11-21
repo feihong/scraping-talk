@@ -1,12 +1,11 @@
 # Scraping from the Web: An Overview That Does Not Contain Too Much Cussing
 
-A talk I gave in February 2013 about how we implemented various scrapers at EveryBlock.
+A talk I gave in February 2013 about how we implemented various scrapers at EveryBlock. I also give recommendations for which libraries to use to handle common data formats.
 
 ## Links
 
-[Slides](http://www.slideshare.net/megafeihong/scraping-from-the-web-an-overview-that-does-not-contain-too-much-cussing)
-
-[Video](https://www.youtube.com/watch?v=bWk0P7w2aZg)
+- [Slides](http://www.slideshare.net/megafeihong/scraping-from-the-web-an-overview-that-does-not-contain-too-much-cussing)
+- [Video](https://www.youtube.com/watch?v=bWk0P7w2aZg)
 
 ## License
 
